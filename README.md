@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Creating a Live Honeynet / SOC in Azure](https://https://github.com/jonnygh14/Cloud-SOC)
+  - [Creating a Live Honeynet / SOC in Azure](https://github.com/jonnygh14/Cloud-SOC)
 
 <h2>📺 Popular YouTube Videos</h2>
 
